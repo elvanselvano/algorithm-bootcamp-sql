@@ -1,0 +1,356 @@
+BrandId,BrandName,EstablishedYear
+1,New Touch,2019
+2,Just Way,2010
+3,Nissin,2016
+4,Wei Lih,2011
+5,Chings Secret,2011
+6,Samyang Foods,2010
+7,Acecook,2010
+8,Ikeda Shoku,2017
+9,Ripe n Dry,2010
+10,KOKA,2017
+11,Tao Kae Noi,2010
+12,Yamachan,2017
+13,Nongshim,2012
+14,TRDP,2010
+15,Binh Tay,2011
+16,Paldo,2018
+17,Jackpot Teriyaki,2013
+18,Yum-Mie,2011
+19,MyKuali,2015
+20,Ottogi,2014
+21,Sichuan Guangyou,2010
+22,Lipton,2017
+23,Lele,2017
+24,Fujiwara,2016
+25,Uni-President,2018
+26,Maruchan,2019
+27,Prima,2018
+28,Sokensha,2012
+29,Takamori,2017
+30,Guava Story,2015
+31,Samurai Ramen,2019
+32,Ogasawara,2018
+33,Pringles,2019
+34,Moms Dry Noodle,2010
+35,Maggi,2019
+36,Indomie,2011
+37,Happy Cook,2018
+38,The Ramen Rater Select,2018
+39,TTL,2012
+40,E-Zee,2015
+41,Kiki Noodle,2018
+42,Tokyo Noodle,2011
+43,GGE,2017
+44,Myojo,2014
+45,Sau Tao,2013
+46,Wang,2015
+47,Daifuku,2016
+48,Master Kong,2010
+49,World O Noodle,2016
+50,Kang Shi Fu,2018
+51,Mum Ngon,2019
+52,Fashion Food,2010
+53,Dream Kitchen,2013
+54,Ajinatori,2010
+55,Dr. McDougalls,2019
+56,Ve Wong,2016
+57,Super Bihun,2010
+58,Xiuhe,2018
+59,Little Cook,2013
+60,Shirakiku,2011
+61,Mama Pats,2015
+62,Goku-Uma,2010
+63,Sichuan Baijia,2018
+64,Liang Cheng Mai,2019
+65,Gefen,2011
+66,Hua Feng,2012
+67,Pulmuone,2012
+68,Liu Quan,2019
+69,Daikoku,2018
+70,Chuan Wei Wang,2011
+71,Wai Wai,2015
+72,Kamfen,2013
+73,Marutai,2019
+74,Vifon,2012
+75,1 To 3 Noodles,2013
+76,Fantastic,2017
+77,Knorr,2013
+78,Sempio,2018
+79,Patanjali,2017
+80,Qin Zong,2016
+81,Pran,2019
+82,Sapporo Ichiban,2010
+83,MAMA,2012
+84,Xiao Ban Mian,2011
+85,Suimin,2011
+86,Cintan,2014
+87,JML,2012
+88,Unif Tung-I,2011
+89,Tablemark,2018
+90,Farmers Heart,2014
+91,Fuku,2011
+92,Singa-Me,2011
+93,Love Cook,2019
+94,Great Value,2018
+95,Asian Thai Foods,2011
+96,Nagatanien,2015
+97,Nyor Nyar,2010
+98,Tseng Noodles,2014
+99,A-Sha Dry Noodle,2010
+100,Morre,2016
+101,Roland,2019
+102,Mr. Lee Noodles,2019
+103,Choumama,2015
+104,President Rice,2016
+105,Happy Family,2016
+106,Menraku,2011
+107,La Moderna,2012
+108,Jingqi,2016
+109,Thien Houng Foods,2014
+110,Doll,2011
+111,Four Seas,2011
+112,CarJEN,2015
+113,7 Select,2018
+114,Oni Hot Pot,2010
+115,Weh Lih,2018
+116,Itomen,2013
+117,Sanpo,2017
+118,Mi Sedaap,2018
+119,Tokushima Seifun,2012
+120,Mamee,2016
+121,Zow Zow,2015
+122,Koyo,2015
+123,ORee Garden,2018
+124,A1,2018
+125,Migawon,2011
+126,Chaudharys Wai Wai,2019
+127,Urban Noodle,2017
+128,Trident,2018
+129,Conimex,2016
+130,Prima Taste,2014
+131,MyOri,2019
+132,Itsuki,2019
+133,Kabuto Noodles,2019
+134,IbuRamen,2011
+135,Koh Thai,2016
+136,Bamee,2011
+137,Ibumie,2011
+138,Unox,2016
+139,Fortune,2010
+140,Bonasia,2013
+141,Mie Sedaap,2018
+142,iMee,2015
+143,Thai Smile,2018
+144,Asia Gold,2011
+145,Pirkka,2017
+146,Higashimaru,2010
+147,Kuriki,2014
+148,Vedan,2013
+149,Yum Yum,2015
+150,Mama,2018
+151,Baijia,2014
+152,Daraz,2018
+153,Pama,2011
+154,Seven & I,2015
+155,Forest Noodles,2010
+156,Vits,2017
+157,Ten-In,2017
+158,Sugakiya Foods,2015
+159,Hao Way,2016
+160,Nakaya Shouten,2019
+161,Thai Chef,2010
+162,Crystal Noodle,2012
+163,Azami,2017
+164,Super,2014
+165,Torishi,2019
+166,Western Family,2018
+167,Chering Chang,2013
+168,Ishimaru,2011
+169,Authentically Asian,2010
+170,Aroi,2019
+171,Koka,2012
+172,Wu-Mu,2019
+173,Yamadai,2019
+174,Vina Acecook,2017
+175,Baixiang Noodles,2011
+176,Salam Mie,2015
+177,Lee Fah Mee,2011
+178,Sakurai Foods,2011
+179,The Kitchen Food,2019
+180,Premiere,2017
+181,7 Select/Nissin,2017
+182,Wugudaochang,2011
+183,Emart,2016
+184,Lishan Food Manufacturing,2019
+185,Ah Lai,2018
+186,Tropicana Slim,2013
+187,A-One,2016
+188,Deshome,2019
+189,Paldo Vina,2012
+190,Chencun,2017
+191,United,2011
+192,ChoripDong,2014
+193,Shan,2012
+194,Ruski,2017
+195,No Name,2013
+196,New Way,2019
+197,Lucky Me!,2018
+198,Campbells,2015
+199,One Dish Asia,2012
+200,Long Jun Hang,2017
+201,Unif-100,2015
+202,Hankow,2010
+203,The Bridge,2019
+204,Mitoku,2014
+205,Unzen,2010
+206,Uncle Sun,2015
+207,Mi E-Zee,2019
+208,E-mi,2015
+209,J.J.,2019
+210,Curry Prince,2016
+211,Econsave,2019
+212,Oyatsu,2010
+213,Kin-Dee,2013
+214,Ko-Lee,2011
+215,ICA,2012
+216,Nanyang Chef,2015
+217,Thai Pavilion,2010
+218,Miliket,2015
+219,Katoz,2010
+220,Men-Sunaoshi,2018
+221,Chewy,2019
+222,Adabi,2015
+223,Osaka Ramen,2011
+224,Sainsburys,2014
+225,Pamana,2011
+226,Annie Chuns,2018
+227,La Fonte,2011
+228,Thai Choice,2016
+229,Tesco,2018
+230,Pop Bihun,2016
+231,Snapdragon,2018
+232,Saji,2013
+233,Miracle Noodle,2019
+234,Tiger Tiger,2014
+235,Takamori Kosan,2019
+236,Papa,2017
+237,Sawadee,2016
+238,Golden Wheat,2010
+239,Lotus Foods,2011
+240,Plats Du Chef,2014
+241,Batchelors,2018
+242,Sakura Noodle,2014
+243,Unif,2012
+244,Hi-Myon,2017
+245,Healtimie,2014
+246,Thai Kitchen,2018
+247,Mr. Noodles,2012
+248,Good Tto Leu Foods,2018
+249,GaGa,2010
+250,Kimura,2013
+251,Tokachimen Koubou,2010
+252,ABC,2018
+253,Eat & Go,2013
+254,President,2011
+255,SuperMi,2011
+256,Kumamoto,2010
+257,HoMyeonDang,2013
+258,Nan Jie Cun,2010
+259,China Best,2012
+260,Sanrio,2010
+261,Peyang,2010
+262,Golden Wonder,2013
+263,Komforte Chockolates,2012
+264,Nagao Noodle,2018
+265,Maitri,2018
+266,GS25,2017
+267,Baltix,2010
+268,Amianda,2017
+269,Tasty Bite,2017
+270,Star Anise Foods,2017
+271,Tradition,2016
+272,Amino,2012
+273,Pot Noodle,2017
+274,Sun Noodle,2011
+275,S&S,2013
+276,Springlife,2019
+277,Right Foods,2014
+278,Sunlee,2011
+279,Goku Uma,2013
+280,Daddy,2010
+281,Hans South Korea,2012
+282,Sarimi,2019
+283,FMF,2018
+284,Long Kow,2018
+285,Unif / Tung-I,2013
+286,Song Hak,2016
+287,Fuji Mengyo,2019
+288,Dragonfly,2019
+289,CJ CheilJedang,2012
+290,Dongwon,2011
+291,Seven-Eleven,2016
+292,Souper,2015
+293,Kims Bowl,2012
+294,Ohsung,2012
+295,Gau Do,2018
+296,Golden Mie,2018
+297,GreeNoodle,2013
+298,Kailo,2011
+299,Fashion Foods,2012
+300,Hosoonyi,2017
+301,Payless,2010
+302,Yamamoto,2012
+303,Saigon Ve Wong,2012
+304,Wu Mu,2014
+305,Mee Jang,2019
+306,JFC,2016
+307,Samyang,2014
+308,Mug Shot,2015
+309,Lishan,2013
+310,Cap Atoom Bulan,2011
+311,Sura,2016
+312,Wei Chuan,2015
+313,Yamamori,2010
+314,Mr. Udon,2010
+315,Omachi,2011
+316,Wei Wei,2019
+317,Six Fortune,2014
+318,Haioreum,2011
+319,Sunlight,2010
+320,Noah Foods,2010
+321,O Sung,2014
+322,Foodmon,2016
+323,Sahmyook,2014
+324,Nan Hsing,2012
+325,Mexi-Ramen,2017
+326,Hsin Tung Yang,2016
+327,Sao Tao,2014
+328,iNoodle,2019
+329,Quickchow,2019
+330,Chikara,2017
+331,Q,2011
+332,Noodle Time,2016
+333,Gomex,2013
+334,US Canning,2014
+335,Rhee Bros Assi,2015
+336,Bon Go Jang,2017
+337,Tayho,2018
+338,Sunny Maid,2012
+339,Royal Umbrella,2017
+340,Tiger,2013
+341,Fu Chang Chinese Noodle Company,2012
+342,Sanyo Foods,2015
+343,Rocket Brand,2013
+344,Boss,2017
+345,Chorip Dong,2010
+346,Higashi,2018
+347,Sakurai,2017
+348,Global Inspiration,2014
+349,Teriyaki Time,2019
+350,Hua Feng Noodle Expert,2010
+351,Kim Ve Wong,2015
+352,Smack,2015
+353,Sutah,2017
+354,Tung-I,2010
+355,Westbrae,2015
