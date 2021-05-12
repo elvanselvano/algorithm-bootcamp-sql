@@ -12,7 +12,6 @@ CREATE TABLE Heroes(
 	-- Membuat kolum HeroName dengan tipe data varchar 255 yang artinya dapat menampung 255 karakter, bedanya dengan char 5 adalah kalau varchar kita tidak wajib mengisi dengan jumlah yang kita berikan sedangkan char wajib.
 	HeroName VARCHAR(255),
 	HeroType VARCHAR(10),
-
 	-- NOT NULL artinya kolum tidak boleh NULL (kosong)
 	HeroAttribute CHAR(3) NOT NULL
 		-- Mengecek apakah HeroAttribute merupakan int/str/agi
@@ -26,12 +25,13 @@ CREATE TABLE Equipments(
 	EquipmentName VARCHAR(255),
 	EquipmentRarity VARCHAR(20),
 	EquipmentPrice INT DEFAULT 0,
+	-- 	Selain kita bisa langsung tulis PK di EquipmentID, kita juga bisa menggunakan constraint
 	CONSTRAINT EquipmentsPK PRIMARY KEY(EquipmentId),
 	CONSTRAINT EquipmentFK FOREIGN KEY(HeroId) REFERENCES Heroes(HeroId) 
 		ON UPDATE CASCADE ON DELETE SET NULL
 )
 
--- Menambahkan kolom baru bernama HeroUseRate dengan constraint default dengan value 0 
+-- Nambah kolom baru HeroUseRate dengan constraint default 0 
 ALTER TABLE Equipments
 ADD HeroUseRate FLOAT DEFAULT 0
 
