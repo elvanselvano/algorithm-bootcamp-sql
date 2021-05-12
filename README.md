@@ -11,7 +11,7 @@
 |      Data Manipulation II       |    `Aggregate Functions` `Grouping` `String` `Date`    | 02_data_manipulation_2.sql |
 |      Data Manipulation III      |                 `Join` `Set Operator`                  | 03_data_manipulation_3.sql |
 |         Advanced SQL I          |      `Subquery` `In and Exists` `Any, Some, All`       |   05_advanced_sql_1.sql    |
-|         Advanced SQL II         |    `Views` `Stored Procedure` `Trigger` `Function`     |   06_adavnced_sql_2.sql    |
+|         Advanced SQL II         |    `Views` `Stored Procedure` `Trigger` `Function`     |   06_advanced_sql_2.sql    |
 | Normalization and ERD Modelling |             `Normalization` `ER Modelling`             |             -              |
 
 ## Databases
