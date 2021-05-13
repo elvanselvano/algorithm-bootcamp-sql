@@ -6,13 +6,23 @@
 
 |            Materials            |                         Topics                         |            Code            |
 | :-----------------------------: | :----------------------------------------------------: | :------------------------: |
-|      Database Environment       | `ERD` `Referential Integrity` `SQL Server Environment` |     00_intro_to_db.sql     |
+|      Database Environment       | `ERD` `Referential Integrity` `SQL Server Environment` |    00_introduction.sql     |
 |       Data Manipulation I       |      `CRUD` `Constraint` `Begin Tran` `Order By`       | 01_data_manipulation_1.sql |
 |      Data Manipulation II       |    `Aggregate Functions` `Grouping` `String` `Date`    | 02_data_manipulation_2.sql |
 |      Data Manipulation III      |                 `Join` `Set Operator`                  | 03_data_manipulation_3.sql |
-|         Advanced SQL I          |      `Subquery` `In and Exists` `Any, Some, All`       |                            |
-|         Advanced SQL II         |    `Views` `Stored Procedure` `Trigger` `Function`     |                            |
+|         Advanced SQL I          |      `Subquery` `In and Exists` `Any, Some, All`       |   05_advanced_sql_1.sql    |
+|         Advanced SQL II         |    `Views` `Stored Procedure` `Trigger` `Function`     |   06_advanced_sql_2.sql    |
 | Normalization and ERD Modelling |             `Normalization` `ER Modelling`             |             -              |
+
+## Databases
+
+- [bodyshop](https://github.com/elvanselvano/algorithm-bootcamp-sql/tree/main/databases/bodyshop)
+- [coffee_shop](https://github.com/elvanselvano/algorithm-bootcamp-sql/tree/main/databases/coffee_shop)
+- [doto](https://github.com/elvanselvano/algorithm-bootcamp-sql/tree/main/databases/doto)
+- [oden](https://github.com/elvanselvano/algorithm-bootcamp-sql/tree/main/databases/oden)
+- [salon](https://github.com/elvanselvano/algorithm-bootcamp-sql/tree/main/databases/salon)
+
+_All of the Databases and ERD are taken from Software Laboratory Center: BINUS University._
 
 ## Reading Materials
 

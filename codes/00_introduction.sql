@@ -1,6 +1,10 @@
--- Membuat Database
+/*
+  New File: CTRL + N
+  Comment: CTRL + K + C
+  Documentattion: F1
+*/
+
 -- Kita dapat membuat sebuah database object menggunakan `create database [nama tabel]`
--- Query di bawah membuat sebuah database bernama hello_world
 create database hello_world
 
 -- USE: digunakan untuk memilih database yang akan digunakan
@@ -38,7 +42,7 @@ select *
 from Equipments
 where EquipmentPrice >= 12 and EquipmentPrice <= 300
 
--- BETWEEN: sebuah operator yang melakukan pengecekan apakah value dalam suatu range
+-- BETWEEN: mengecek apakah value dalam suatu range
 -- queri ini juga mengoutputkan hal yang sama dengan query di atas
 -- tetapi query ini menggunakan between
 select *
@@ -53,19 +57,19 @@ where EquipmentPrice < 12 or EquipmentPrice > 300
 -- LIKE: operator yang digunakan untuk mencari suatu pattern
 -- %: menunjukkan pattern 0 atau lebih character
 -- query ini menunjukkan user dengan username yang mengandung a
-SeLEcT *
-fRoM Users
-WheRe UserName like '%a%'
+select *
+from Users
+where UserName like '%a%'
 
 -- query ini menunjukkan user dengan username yang mulai dengan a
-SeLEcT *
-fRoM Users
-WheRe UserName like 'a%'
+select *
+from Users
+where UserName like 'a%'
 
 -- query ini menunjukkan user dengan username yang berakhir dengan a
-SeLEcT *
-fRoM Users
-WheRe UserName like '%a'
+select *
+from Users
+where UserName like '%a'
 
 -- NOT: operator yang melakukan negasi hasil kondisi
 --query ini mendapatkan username yang tidak memiliki huruf a
